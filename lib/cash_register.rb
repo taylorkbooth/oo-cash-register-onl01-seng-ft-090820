@@ -23,13 +23,13 @@ class CashRegister
   end
 end
   
-  def items
+  # def items
     
-  end
+  # end
   
-  def void_last_transaction
+  # def void_last_transaction
     
-  end
+  # end
   
   
   
