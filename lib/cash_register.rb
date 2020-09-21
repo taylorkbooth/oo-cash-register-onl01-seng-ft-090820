@@ -28,13 +28,11 @@ end
   end
 end
   
-  # def items
-    
-  # end
+ 
   
-  # def void_last_transaction
+  def void_last_transaction
     
-  # end
+  end
   
   
   
