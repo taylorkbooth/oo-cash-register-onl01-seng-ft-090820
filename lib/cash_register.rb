@@ -1,29 +1,29 @@
-# class CashRegister
+class CashRegister
   
-#   attr_accessor :total, :discount, :items
+  attr_accessor :total, :discount, :items
   
-#   def initializize(discount = 0)
-#     @total = 0
-#     @discount = discount
-#     @items = []
-#   end
+  def initializize(discount = 0)
+    @total = 0
+    @discount = discount
+    @items = []
+  end
   
   
-#   def add_item
+  def add_item
     
-#   end
+  end
   
-#   def apply_discount
+  def apply_discount
     
-#   end
+  end
   
-#   def items
+  def items
     
-#   end
+  end
   
-#   def void_last_transaction
+  def void_last_transaction
     
-#   end
+  end
   
   
   
