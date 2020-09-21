@@ -13,7 +13,7 @@ class CashRegister
     quantity.times do
       @items << title
   end
-  last item
+  @last_total = 
   
   def apply_discount
     @total = @total * @discount / 100
