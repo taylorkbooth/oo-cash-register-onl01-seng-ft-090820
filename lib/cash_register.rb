@@ -4,7 +4,7 @@ class CashRegister
   
   def initializize(total)
     @total = total
-    
+  
   end
   
   
